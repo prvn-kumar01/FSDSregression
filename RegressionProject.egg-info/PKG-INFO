@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: RegressionProject
+Version: 0.0.1
+Author: Praveen
+Author-email: praveenthakur01@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: Flask
+Requires-Dist: matplotlib
